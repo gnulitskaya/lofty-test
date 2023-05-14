@@ -1,4 +1,5 @@
 # lofty-test
+![image](https://github.com/gnulitskaya/lofty-test/assets/63544167/0317e23f-68b0-45c4-a132-b270f46104b5)
 
 //===========================Задание 1===========================
 
